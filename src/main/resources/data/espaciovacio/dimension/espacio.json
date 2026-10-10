@@ -1,0 +1,13 @@
+{
+  "type": "espaciovacio:espacio",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "espaciovacio:espacio",
+      "features": false,
+      "lakes": false,
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}

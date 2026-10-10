@@ -1,0 +1,9 @@
+{
+  "block.espaciovacio.bloque_ancla": "Bloque Ancla del Vacío",
+  "block.espaciovacio.marco_dimensional": "Marco Dimensional",
+  "block.espaciovacio.portal_vacio": "Portal del Vacío",
+  "item.espaciovacio.nucleo_dimensional": "Núcleo Dimensional",
+  "itemGroup.espaciovacio": "Espacio Vacío",
+  "msg.espaciovacio.marco_invalido": "Marco inválido: hacen falta 10 Marcos Dimensionales (4x5 sin esquinas) con el interior de 2x3 libre.",
+  "msg.espaciovacio.no_dimension": "La dimensión Espacio Vacío no está cargada."
+}

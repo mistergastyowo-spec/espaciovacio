@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["ESE", "SNS", "ESE"],
+  "key": {
+    "E": { "item": "minecraft:echo_shard" },
+    "S": { "item": "minecraft:shulker_shell" },
+    "N": { "item": "minecraft:nether_star" }
+  },
+  "result": { "item": "espaciovacio:nucleo_dimensional", "count": 1 }
+}

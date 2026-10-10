@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "espaciovacio:block/portal_vacio_x" },
+    "axis=z": { "model": "espaciovacio:block/portal_vacio_z" }
+  }
+}

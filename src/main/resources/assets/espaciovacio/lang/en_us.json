@@ -1,0 +1,9 @@
+{
+  "block.espaciovacio.bloque_ancla": "Void Anchor Block",
+  "block.espaciovacio.marco_dimensional": "Dimensional Frame",
+  "block.espaciovacio.portal_vacio": "Void Portal",
+  "item.espaciovacio.nucleo_dimensional": "Dimensional Core",
+  "itemGroup.espaciovacio": "Empty Space",
+  "msg.espaciovacio.marco_invalido": "Invalid frame: you need 10 Dimensional Frames (4x5, no corners) with the 2x3 interior free.",
+  "msg.espaciovacio.no_dimension": "The Empty Space dimension is not loaded."
+}
